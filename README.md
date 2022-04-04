@@ -1,5 +1,5 @@
 # dotFile_GHOSTSPECTRE
-This is for Ghost Spectre user after a fresh install
+This is for Ghost Spectre user after fresh install
 
 This install:
   
